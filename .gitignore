@@ -1,32 +1,15 @@
-# Prerequisites
-*.d
+bin/
+obj/
+build/
+xmr-stak-cpu.layout
+xmr-stak-cpu.depend
+config-debug.txt
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# netbeans project files
+/nbproject/
 
-# Precompiled Headers
-*.gch
-*.pch
+# tmp files
+*~
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# merge original backup files
+*.orig
